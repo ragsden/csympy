@@ -56,3 +56,5 @@ script:
   - bin/test_travis.sh
 notifications:
   email: false
+
+build_image: shippable/minv2:latest
